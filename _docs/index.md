@@ -12,5 +12,5 @@ Use the menu at the upper left to get more information on specific projects I'm 
 	<img src="{{ "/assets/img/Joe_in_Mu_Us.jpg" | relative_url }}" class="img-responsive" alt="Joe in Mu Us dunes">
 </div>
 <div class="col-md-6">
-	<img src="{{ "/assets/img/Wauneta_slope.jpg" | relative_url }}" class="img-responsive" alt="Wauneta site, Nebraska">
+	<img src="{{ "/assets/img/wauneta_slope.jpg" | relative_url }}" class="img-responsive" alt="Wauneta site, Nebraska">
 </div>

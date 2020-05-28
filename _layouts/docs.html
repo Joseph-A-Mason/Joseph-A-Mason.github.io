@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-4">
+          {% include docs_nav.html %}
+        </div>
+
+        <div class="col-md-8">
+            <h3>{{ page.title }}</h3>
+            <div id="markdown-content-container">{{ content }}</div>
+            <div style="clear:both;">
+              <p class="text-center"> </p>
+            </div>
+            <hr>
+            {% include section_nav.html %}
+        </div>
+
+    </div>
+</div>

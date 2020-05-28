@@ -5,7 +5,7 @@ description: >
   Joe Mason's Research Website.
 lang: en-US
 
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: https://Joseph-A-Mason.github.io/ # the base hostname & protocol for your site
 git_address: https://github.com/Joseph-A-Mason/
 git_edit_address: https://github.com/Joseph-A-Mason/

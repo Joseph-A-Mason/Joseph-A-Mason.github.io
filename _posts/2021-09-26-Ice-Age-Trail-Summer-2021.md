@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ice Age Trail in Northern Wisconsin"
+title:  "Ice Age Trail in Northern Wisconsin: Bouldery Moraines and Pit-and-Mound Microtopography"
 date:   2021-09-26 15:30
 author: Joe Mason
 ---
@@ -36,7 +36,7 @@ Over time (decades or more), the soil falls or washes off the roots, and the roo
 	<img src="{{ "/assets/img/Wood_L_pit_mound1.jpg" | relative_url }}" class="img-responsive" alt="Large white pine growing on a mound produced by tree throw">
 </div>
 
-Over even longer time periods (hundreds to thousands of years), repeated tree throw creates pits and mounds across much of the forest floor. This is often called pit-mound or cradle-knoll topography, and is especially visible in this photo from the Wood Lake segment because of the scarcity of shrubs in the understory and the uniform carpet of sedges.
+Over even longer time periods (hundreds to thousands of years), repeated tree throw creates pits and mounds across much of the forest floor. This is often called pit-mound or cradle-knoll microtopography, and is especially visible in this photo from the Wood Lake segment because of the scarcity of shrubs in the understory and the uniform carpet of sedges.
 
 <div class="col-md-12">
 	<img src="{{ "/assets/img/sedge_carpet.jpg" | relative_url }}" class="img-responsive" alt="Pit and mound or cradle-knoll topography">

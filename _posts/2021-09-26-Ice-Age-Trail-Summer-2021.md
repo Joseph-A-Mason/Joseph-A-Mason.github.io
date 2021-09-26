@@ -38,6 +38,6 @@ Over time (decades or more), the soil falls or washes off the roots, and the roo
 
 Over even longer time periods (hundreds to thousands of years), repeated tree throw creates pits and mounds across much of the forest floor. This is often called pit-mound or cradle-knoll topography, and is especially visible in this photo from the Wood Lake segment because of the scarcity of shrubs in the understory and the uniform carpet of sedges.
 
-<div class="col-md-6">
+<div class="col-md-12">
 	<img src="{{ "/assets/img/sedge_carpet.jpg" | relative_url }}" class="img-responsive" alt="Pit and mound or cradle-knoll topography">
 </div>

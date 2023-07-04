@@ -14,7 +14,7 @@ This project was carried out in an area of Minnesota where previous research has
 
 We found evidence that that while there can be a lag in soil morphological response to vegetation change of at least several hundred years, soils under forest even a short distance from the 19th century prairie-forest transition display little or no evidence of their past history under prairie, as inferred from paleoecological studies. We analyzed stable carbon isotope composition of all of the soil profiles we sampled, finding clear differences between soils that were under forest or prairie in the 19th century, as well as evidence for change from prairie to forest at a few sites. We are currently completing work on a paper that reports these isotopic data and uses radiocarbon dating and modeling to infer the timescale of soil change after forest replacement of prairie. The results will also be of interest to researchers who have intensively studied past vegetation change in the same study area, using evidence from lake sediments, and are also relevant to understanding changes that may occur in soils in this region as a result of future changes in climate, land use, and vegetation.
 
-Date from this project is <a href="https://github.com/Joseph-A-Mason/Forest-Prairie" target="_blank">here</a>
+Data from this project is <a href="https://github.com/Joseph-A-Mason/Forest-Prairie" target="_blank">here</a>
 
 Publication:
 Kasmerchak, C.S., Mason, J. A., Liang, M., 2019. Laser diffraction analysis of aggregate disintegration and stability in forest and grassland soils of northern Minnesota, U.S.A. Geoderma 338: 430-444.

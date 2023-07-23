@@ -6,7 +6,7 @@ author: Joe Mason
 ---
 
 <div class="col">
-	<img src="{{ "/assets/img/Climax_Mine.jpg.jpg" | relative_url }}" class="img-responsive" alt="</div>
+	<img src="{{ "/assets/img/Climax_Mine.jpg.jpeg" | relative_url }}" class="img-responsive" alt="</div>
 ">
 </div>
 

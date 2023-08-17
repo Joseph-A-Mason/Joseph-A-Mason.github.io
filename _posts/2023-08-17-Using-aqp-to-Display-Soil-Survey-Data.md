@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Using aqp to Display Soil Survey Data"
-date:   2023-08-17 19:40
+date:   2023-08-17 9:00
 author: Joe Mason
 ---
 

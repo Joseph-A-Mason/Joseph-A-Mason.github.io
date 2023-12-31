@@ -11,9 +11,9 @@ See below for a generic R script I use to create visualizations like this using 
 
 <iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1660902/sp/166090200/embedIframeJs/uiconf_id/25916071/partner_id/1660902?iframeembed=true&playerId=kaltura_player&entry_id=1_snrq826f&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en_US&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_wz2pk02q" width="649" height="401" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *"  frameborder="0" title="Climax_Mine"></iframe>
 
-#Script Used to Create this Animation
+#R Code Used to Create this Animation
 
-**Please note** that much of the code in this script is adapted or copied directly from tutorials by Tyler Morgan-Wall on the <a href="https://www.rayshader.com/" target="_blank">Rayshader website</a> and by Andrew Brown on the <a href="https://github.com/brownag/rgeedim" target="_blank">rgeedim website</a>; I would be flattered if you try out this script and create something new with it, but they and their R packages really deserve most of the credit.
+**Please note** that much of the code here is adapted or copied directly from tutorials by Tyler Morgan-Wall on the <a href="https://www.rayshader.com/" target="_blank">Rayshader website</a> and by Andrew Brown on the <a href="https://github.com/brownag/rgeedim" target="_blank">rgeedim website</a>; I would be flattered if you try out this script and create something new with it, but they and their R packages really deserve most of the credit.
 
 Start with the libraries needed. As of 12/30/2023 these can all be install from CRAN. See the explanation of Google Earth Engine authentication in the rgeedim documentation.
 
@@ -243,8 +243,7 @@ for(k in 2:Numpoints){
 }
 
 #creates the movie; again fill in the right path to replace ...
-av::av_encode_video(sprintf(".../Climax%i.png",seq(1,TotalSteps,by=1)), framerate = 10,
-                    output = "Climax_Mine.mp4")
+av::av_encode_video(sprintf(".../Climax%i.png",seq(1,TotalSteps,by=1)), framerate = 10, output = "Climax_Mine.mp4")
 
 #Closes rgl object. Deprecated but still works, I guess
 rgl::rgl.close()
